@@ -6,7 +6,12 @@
   "scripts": {
     "dev": "nodemon ./src/index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "monoschino",
+    "monoschino2",
+    "monoschino anime",
+    "anime"
+  ],
   "author": {
     "name": "Chris Michael",
     "email": "chrisperezsantiago1@gmail.com",
